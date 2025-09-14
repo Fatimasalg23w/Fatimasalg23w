@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRhbThvMmJlOWVkNzRodXRsaGhpNzg4d29vY21tZHAxZTkzbHAxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iLtviuHFA3eBeiiB0m/giphy.gif" width="100%" />
 </div>
-<h1 align="center">Hi 👋, I´m Fatima
+<h1 align="center">Hi there👋, It´s Fatima
 <h3 align="center">A Fullstack Developer based in Mexico City</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXd6MmxtMm80eWo2MG8yNmdoaXFkYndmZHM4YnE1OWNqNWZhamJjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/coCVYjNvvXXxFq3GoY/giphy.gif">
 <p>About Me</p>
