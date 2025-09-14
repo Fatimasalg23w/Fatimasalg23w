@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I´m Fatima
 <h3 align="center">A Fullstack Developer based in Mexico City</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXd6MmxtMm80eWo2MG8yNmdoaXFkYndmZHM4YnE1OWNqNWZhamJjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/coCVYjNvvXXxFq3GoY/giphy.gif">
-<h4 align="center">About Me</h4>
+<p>About Me</p>
 <p>I'm a fullstack web developer with a strong foundation in JAMstack architecture, passionate about the intersection of design, logic, and user experience. I graduated from the Kodemia bootcamp, where I specialized in modern web technologies including HTML5, CSS3, JavaScript, React, and MongoDB. My approach blends creative expression—like pixel art—with analytical thinking, especially in applying mathematical principles to responsive and accessible web design.</p>
 <p>Originally trained in tourism, I transitioned into tech after recognizing the growing role of digital tools in my field. That shift sparked a deeper interest in development, leading me to pursue formal training and hands-on experience in building scalable, user-focused web applications.
 As I deepened my practice, I explored networking fundamentals using the OSI model to better understand how systems communicate and how to optimize performance across layers.</p> <p>Along the way, I studied OWASP principles to integrate secure coding practices into my development workflow—especially when working with user-facing applications and APIs.</p>
