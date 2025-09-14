@@ -17,9 +17,10 @@
 - ⚡ Fun fact **I don´t like social media**
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJhb2lvbTNva3AwaGIybzhrcDFpYXdnM2p3dnU3cG55OGt5MnB5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OwAi167njQxHwDhqFE/giphy.gif" alt="socialmedia" width="230" height="180"/>
 
-## 🌱 Mi gráfico de contribuciones
+## 🔗 Repositorio principal
 
-![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Fatimasalg23w&theme=default)
+Este proyecto vive en: [CONTRIBUTION-GRAPH-](https://github.com/Fatimasalg23w/CONTRIBUTION-GRAPH-)
+
   
 
 
