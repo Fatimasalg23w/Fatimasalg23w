@@ -32,6 +32,47 @@ These books fuel my curiosity about systems, ethics, and the evolving relationsh
 <p>⚡ Fun fact **I don´t like social media**</p>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJhb2lvbTNva3AwaGIybzhrcDFpYXdnM2p3dnU3cG55OGt5MnB5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OwAi167njQxHwDhqFE/giphy.gif" alt="socialmedia" width="330" height="280"/>
   
+## 📝 My Latest Blog Post
+
+<table>
+  <tr>
+    <td>
+      <a href="https://medium.com/@ceciliadom1/protocols-and-network-security-a-layered-perspective-1501d15f8210" target="_blank">
+        <img src="https://images.unsplash.com/photo-1614064641938-3bbee52942c7?q=80&w=600&auto=format&fit=crop&ixlib=rb-4.1.0" alt="Network Layers" width="250">
+      </a><br>
+      <strong><a href="https://medium.com/@ceciliadom1/protocols-and-network-security-a-layered-perspective-1501d15f8210" target="_blank">🔒 Protocols and Network Security</a></strong><br>
+      A beginner-friendly guide to understanding how network layers work—and how to secure each one.
+    </td>
+    <td>
+      <a href="https://medium.com/@ceciliadom1/article-2-url" target="_blank">
+        <img src="https://images.unsplash.com/photo-2-url" alt="Article 2" width="250">
+      </a><br>
+      <strong><a href="https://medium.com/@ceciliadom1/article-2-url" target="_blank">🧠 Article Title #2</a></strong><br>
+      Short description of your second article goes here.
+    </td>
+    <td>
+      <a href="https://medium.com/@ceciliadom1/article-3-url" target="_blank">
+        <img src="https://images.unsplash.com/photo-3-url" alt="Article 3" width="250">
+      </a><br>
+      <strong><a href="https://medium.com/@ceciliadom1/article-3-url" target="_blank">📦 Article Title #3</a></strong><br>
+      Short description of your third article goes here.
+    </td>
+    <td>
+      <a href="https://medium.com/@ceciliadom1/article-4-url" target="_blank">
+        <img src="https://images.unsplash.com/photo-4-url" alt="Article 4" width="250">
+      </a><br>
+      <strong><a href="https://medium.com/@ceciliadom1/article-4-url" target="_blank">⚙️ Article Title #4</a></strong><br>
+      Short description of your fourth article goes here.
+          <td>
+      <a href="https://medium.com/@ceciliadom1/article-5-url" target="_blank">
+        <img src="https://images.unsplash.com/photo-4-url" alt="Article 5" width="250">
+      </a><br>
+      <strong><a href="https://medium.com/@ceciliadom1/article-5-url" target="_blank">⚙️ Article Title #5</a></strong><br>
+      Short description of your fourth article goes here.
+    </td>
+    </td>
+  </tr>
+</table>
 
 
 # 💻 My Tech Stack:
