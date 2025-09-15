@@ -44,11 +44,12 @@ These books fuel my curiosity about systems, ethics, and the evolving relationsh
       A beginner-friendly guide to understanding how network layers work—and how to secure each one.
     </td>
     <td>
-      <a href="https://medium.com/@ceciliadom1/article-2-url" target="_blank">
-        <img src="https://images.unsplash.com/photo-2-url" alt="Article 2" width="250">
+      <a href="https://medium.com/@ceciliadom1/from-junior-to-senior-supercharging-your-workflow-with-snippets-in-vs-code-054dc72c540b" target="_blank">
+        <img src="https://images.unsplash.com/photo-1724312391116-a85ff59fc82e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Article 2" width="500">
       </a><br>
-      <strong><a href="https://medium.com/@ceciliadom1/article-2-url" target="_blank">🧠 Article Title #2</a></strong><br>
-      Short description of your second article goes here.
+      <strong><a href="https://medium.com/@ceciliadom1/article-2-url" target="_blank">🚀 From Junior to Senior: Supercharging Your Workflow with Snippets in VS Code</a></strong><br>
+      Learn to use snippets and write code efficiently. A guide to activate them in Visual Studio Code, and teach you how they can help developers like you level up from junior to senior coding workflows. 
+
     </td>
     <td>
       <a href="https://medium.com/@ceciliadom1/article-3-url" target="_blank">
