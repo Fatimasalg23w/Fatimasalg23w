@@ -34,22 +34,76 @@ These books fuel my curiosity about systems, ethics, and the evolving relationsh
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+<a href="https://github.com/yourusername/java-project" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
+  <span style="vertical-align:middle;">Java</span>
+</a>  
+<a href="https://github.com/yourusername/typescript-project" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
+  <span style="vertical-align:middle;">TypeScript</span>
+</a>  
+<a href="https://github.com/yourusername/git-workflows" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
+  <span style="vertical-align:middle;">Git</span>
+</a>  
+<a href="https://github.com/yourusername/linux-scripts" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
+  <span style="vertical-align:middle;">Linux</span>
+</a>  
+<a href="https://github.com/yourusername/html5-project" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
+  <span style="vertical-align:middle;">HTML5</span>
+</a>  
+<a href="https://github.com/yourusername/css3-styles" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
+  <span style="vertical-align:middle;">CSS3</span>
+</a>  
+<a href="https://github.com/yourusername/javascript-projects" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
+  <span style="vertical-align:middle;">JavaScript</span>
+</a>  
+<a href="https://github.com/yourusername/react-apps" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
+  <span style="vertical-align:middle;">React</span>
+</a>  
+<a href="https://github.com/yourusername/nodejs-backend" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
+  <span style="vertical-align:middle;">Node.js</span>
+</a>  
+<a href="https://github.com/yourusername/python-projects" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
+  <span style="vertical-align:middle;">Python</span>
+</a>  
+<a href="https://github.com/yourusername/github-repos" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
+  <span style="vertical-align:middle;">GitHub</span>
+</a>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
+<span style="vertical-align:middle;">Bash</span>  
+<a href="https://github.com/yourusername/csharp-projects" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
+  <span style="vertical-align:middle;">C#</span>
+</a>  
+<a href="https://github.com/yourusername/dotnet-apps" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
+  <span style="vertical-align:middle;">.NET</span>
+</a>  
+<a href="https://github.com/yourusername/mysql-database" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
+  <span style="vertical-align:middle;">MySQL</span>
+</a>  
+<a href="https://github.com/yourusername/mongodb-projects" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
+  <span style="vertical-align:middle;">MongoDB</span>
+</a>  
+<a href="https://github.com/yourusername/aws-deployments" target="_blank">
+  <img src="https://skillicons.dev/icons?i=aws" width="30px" style="vertical-align:middle; margin-right:8px;">
+  <span style="vertical-align:middle;">AWS</span>
+</a>  
+<a href="https://github.com/yourusername/googlecloud-projects" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gcp" width="30px" style="vertical-align:middle; margin-right:8px;">
+  <span style="vertical-align:middle;">Google Cloud</span>
+</a>
   
 ## 📝 My Latest Blog Post
 
