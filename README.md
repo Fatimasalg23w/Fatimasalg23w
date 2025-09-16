@@ -78,8 +78,6 @@ These books fuel my curiosity about systems, ethics, and the evolving relationsh
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
   <span style="vertical-align:middle;">GitHub</span>
 </a>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
-<span style="vertical-align:middle;">Bash</span>  
 <a href="https://github.com/yourusername/csharp-projects" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
   <span style="vertical-align:middle;">C#</span>
