@@ -45,31 +45,17 @@ These books fuel my curiosity about systems, ethics, and the evolving relationsh
     </td>
     <td>
       <a href="https://medium.com/@ceciliadom1/from-junior-to-senior-supercharging-your-workflow-with-snippets-in-vs-code-054dc72c540b" target="_blank">
-        <img src="https://images.unsplash.com/photo-1724312391116-a85ff59fc82e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Article 2" width="500">
+        <img src="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Article 2" width="250">
       </a><br>
       <strong><a href="https://medium.com/@ceciliadom1/article-2-url" target="_blank">🚀 From Junior to Senior: Supercharging Your Workflow with Snippets in VS Code</a></strong><br>
-      Learn to use snippets and write code efficiently. A guide to activate them in Visual Studio Code, and teach you how they can help developers like you level up from junior to senior coding workflows. 
-
+      Learn to use snippets and level up from junior to senior coding workflows.
     </td>
     <td>
-      <a href="https://medium.com/@ceciliadom1/article-3-url" target="_blank">
-        <img src="https://images.unsplash.com/photo-3-url" alt="Article 3" width="250">
+      <a href="https://medium.com/@ceciliadom1/from-theory-to-practice-main-algorithms-and-how-to-apply-them-in-real-projects-8840f655fafc" target="_blank">
+        <img src="https://images.unsplash.com/photo-1642952469120-eed4b65104be?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Article 3" width="290">
       </a><br>
-      <strong><a href="https://medium.com/@ceciliadom1/article-3-url" target="_blank">📦 Article Title #3</a></strong><br>
-      Short description of your third article goes here.
-    </td>
-    <td>
-      <a href="https://medium.com/@ceciliadom1/article-4-url" target="_blank">
-        <img src="https://images.unsplash.com/photo-4-url" alt="Article 4" width="250">
-      </a><br>
-      <strong><a href="https://medium.com/@ceciliadom1/article-4-url" target="_blank">⚙️ Article Title #4</a></strong><br>
-      Short description of your fourth article goes here.
-          <td>
-      <a href="https://medium.com/@ceciliadom1/article-5-url" target="_blank">
-        <img src="https://images.unsplash.com/photo-4-url" alt="Article 5" width="250">
-      </a><br>
-      <strong><a href="https://medium.com/@ceciliadom1/article-5-url" target="_blank">⚙️ Article Title #5</a></strong><br>
-      Short description of your fourth article goes here.
+      <strong><a href="https://medium.com/@ceciliadom1/article-3-url" target="_blank">🧠 From Theory to Practice: Main Algorithms and How to Apply Them in Real Projects</a></strong><br>
+     Hands-on projects: Understand algorithms and their application in real life projects.
     </td>
     </td>
   </tr>
