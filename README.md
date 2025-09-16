@@ -123,9 +123,8 @@ I’ve also worked with technologies like Lovable, Bolt, and others, customizing
   </tr>
 </table>
 
-
----
-<h1 align="center"> 🌐 Web Development</h1>
+<h1 align="center"> 🎠Mis proyectos</h1>
+<h2 align="left"> 🌐 Web Development</h2>
 
 | 🖼️ **Front End** | ⚙️ **Front End Dinámico** |
 |:--|:--|
@@ -146,10 +145,7 @@ I’ve also worked with technologies like Lovable, Bolt, and others, customizing
 | **C# .NET** | `HTML5 + CSS3 + JavaScript + ASP.NET Core` | Admin dashboard with role-based access |
 | **Java (Spring Boot)** | `HTML5 + CSS3 + JavaScript + Spring Boot` | Student registration system |
 
-## 🎠 Proyectos Destacados
-
-
-
+##  🖥️ Desktop App 
 
 
 🧩 C# .NET Desktop App
