@@ -32,91 +32,98 @@ These books fuel my curiosity about systems, ethics, and the evolving relationsh
 <p>⚡ Fun fact **I don´t like social media**</p>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJhb2lvbTNva3AwaGIybzhrcDFpYXdnM2p3dnU3cG55OGt5MnB5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OwAi167njQxHwDhqFE/giphy.gif" alt="socialmedia" width="330" height="280"/>
 
-### 🧰 Languages and Tools
 
-<h3 align="left">🖍️Front-end</h3>
+<h2 align="center">🧰 Languages and Tools</h2>
+<table align="center">
+  <tr>
+    <td align="center">
+      <h2>🖍️ Frontend</h2>
+      <p>
+        <a href="https://github.com/yourusername/typescript-project" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40px" title="TypeScript"/>
+        </a>
+        <a href="https://github.com/yourusername/html5-project" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40px" title="HTML5"/>
+        </a>
+        <a href="https://github.com/yourusername/css3-styles" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40px" title="CSS3"/>
+        </a>
+        <a href="https://github.com/yourusername/javascript-projects" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px" title="JavaScript"/>
+        </a>
+        <a href="https://github.com/yourusername/react-apps" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" title="React"/>
+        </a>
+      </p>
+    </td>
+    <td align="center">
+      <h2>🔧 Backend</h2>
+      <p>
+        <a href="https://github.com/yourusername/java-project" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" title="Java"/>
+        </a>
+        <a href="https://github.com/yourusername/nodejs-backend" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" title="Node.js"/>
+        </a>
+        <a href="https://github.com/yourusername/python-projects" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40px" title="Python"/>
+        </a>
+        <a href="https://github.com/yourusername/csharp-projects" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px" title="C#"/>
+        </a>
+        <a href="https://github.com/yourusername/dotnet-apps" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40px" title=".NET"/>
+        </a>
+      </p>
+    </td>
+  </tr>
 
-<a href="https://github.com/yourusername/typescript-project" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
-  <span style="vertical-align:middle;">TypeScript</span>
-</a>  
-<a href="https://github.com/yourusername/html5-project" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
-  <span style="vertical-align:middle;">HTML5</span>
-</a>  
-<a href="https://github.com/yourusername/css3-styles" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
-  <span style="vertical-align:middle;">CSS3</span>
-</a>  
-<a href="https://github.com/yourusername/javascript-projects" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
-  <span style="vertical-align:middle;">JavaScript</span>
-</a>  
-<a href="https://github.com/yourusername/react-apps" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
-  <span style="vertical-align:middle;">React</span>
-</a>  
-</br>
-<h3 align="left">🔧🪚Back-end</h3>
-<a href="https://github.com/yourusername/java-project" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
-  <span style="vertical-align:middle;">Java</span>
-</a>  
-<a href="https://github.com/yourusername/nodejs-backend" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
-  <span style="vertical-align:middle;">Node.js</span>
-</a>  
-<a href="https://github.com/yourusername/python-projects" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
-  <span style="vertical-align:middle;">Python</span>
-</a>  
-
-<a href="https://github.com/yourusername/csharp-projects" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
-  <span style="vertical-align:middle;">C#</span>
-</a>  
-<a href="https://github.com/yourusername/dotnet-apps" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
-  <span style="vertical-align:middle;">.NET</span>
-</a>  
-</br>
-<h3 align="left">🗂️ Version Control</h3>
-<a href="https://github.com/yourusername/git-workflows" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
-  <span style="vertical-align:middle;">Git</span>
-</a>  
-<a href="https://github.com/yourusername/github-repos" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
-  <span style="vertical-align:middle;">GitHub</span>
-</a>  
-
- <h3 align="left">🖥️OS</h3>
-
-<a href="https://github.com/yourusername/linux-scripts" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
-  <span style="vertical-align:middle;">Linux</span>
-</a>  
-</br>
-<h3 align="left">📚Database</h3>
-<a href="https://github.com/yourusername/mysql-database" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
-  <span style="vertical-align:middle;">MySQL</span>
-</a>  
-<a href="https://github.com/yourusername/mongodb-projects" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
-  <span style="vertical-align:middle;">MongoDB</span>
-</a>  
-</br>
-<h3 align="left">☁️Cloud</h3>
-<a href="https://github.com/yourusername/aws-deployments" target="_blank">
-  <img src="https://skillicons.dev/icons?i=aws" width="30px" style="vertical-align:middle; margin-right:8px;">
-  <span style="vertical-align:middle;">AWS</span>
-</a>  
-<a href="https://github.com/yourusername/googlecloud-projects" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gcp" width="30px" style="vertical-align:middle; margin-right:8px;">
-  <span style="vertical-align:middle;">Google Cloud</span>
-</a>
-  </br>
+  <tr>
+    <td align="center">
+      <h2>📚 Database</h2>
+      <p>
+        <a href="https://github.com/yourusername/mysql-database" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="MySQL"/>
+        </a>
+        <a href="https://github.com/yourusername/mongodb-projects" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" title="MongoDB"/>
+        </a>
+      </p>
+    </td>
+    <td align="center">
+      <h2>☁️ Cloud</h2>
+      <p>
+        <a href="https://github.com/yourusername/aws-deployments" target="_blank">
+          <img src="https://skillicons.dev/icons?i=aws" width="40px" title="AWS"/>
+        </a>
+        <a href="https://github.com/yourusername/googlecloud-projects" target="_blank">
+          <img src="https://skillicons.dev/icons?i=gcp" width="40px" title="Google Cloud"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h2>🗂️ Version Control</h2>
+      <p>
+        <a href="https://github.com/yourusername/git-workflows" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" title="Git"/>
+        </a>
+        <a href="https://github.com/yourusername/github-repos" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" title="GitHub"/>
+        </a>
+      </p>
+    </td>
+    <td align="center">
+      <h2>🖥️ Operating System</h2>
+      <p>
+        <a href="https://github.com/yourusername/linux-scripts" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" title="Linux"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
   <h3 align="center"> 📝 My Latest Blog Post</h3>
 
 <table>
@@ -147,14 +154,12 @@ These books fuel my curiosity about systems, ethics, and the evolving relationsh
 </table>
 
 
+<h2 align="center">📊 GitHub Stats</h2>
 
+<div align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Fatimasalg23w&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Fatimasalg23w&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatimasalg23w&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Fatimasalg23w&icon=0&color=0)](https://visitcount.itsvg.in)
+  <img src="https://github-readme-stats.vercel.app/api?username=Fatimasalg23w&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Fatimasalg23w&theme=dark&hide_border=false" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
