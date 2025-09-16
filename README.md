@@ -39,7 +39,7 @@ I’ve also worked with technologies like Lovable, Bolt, and others, customizing
   </tr>
 </table>
 
-<h3 align="center"> 📝 My Latest Blog Post</h3>
+<h1 align="center"> 📝 My Latest Blog Post</h1>
 
 <table>
   <tr>
@@ -125,10 +125,7 @@ I’ve also worked with technologies like Lovable, Bolt, and others, customizing
 
 
 ---
-
-## 🌐 Web Development
-
-## 🚀 Mis Proyectos
+<h1 align="center"> 🌐 Web Development</h1>
 
 | 🖼️ **Front End** | ⚙️ **Front End Dinámico** |
 |:--|:--|
