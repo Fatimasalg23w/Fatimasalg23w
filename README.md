@@ -9,29 +9,35 @@
 <p>Originally trained in tourism, I transitioned into tech after recognizing the growing role of digital tools in my field. That shift sparked a deeper interest in development, leading me to pursue formal training and hands-on experience in building scalable, user-focused web applications.
 As I deepened my practice, I explored networking fundamentals using the OSI model to better understand how systems communicate and how to optimize performance across layers.</p> <p>Along the way, I studied OWASP principles to integrate secure coding practices into my development workflow—especially when working with user-facing applications and APIs.</p>
 I’ve also worked with technologies like Lovable, Bolt, and others, customizing and editing them to fit specific project needs. This hands-on experience has strengthened my ability to adapt tools, troubleshoot across stacks, and build solutions that are both functional and secure.
-I'm especially interested in how visual aesthetics and mathematical structure can enhance usability and storytelling on the web—and how security and architecture shape the reliability behind the scenes.</p>
+</br>
 
-
-📚 Currently Reading
-- 1984 by George Orwell
-- The Cult of AI
-- TypeScript 5 Design Patterns and Best Practices
-- Cyber Biosecurity by Addie Lamar
-These books fuel my curiosity about systems, ethics, and the evolving relationship between humans and technology.
-
-💬 Ask Me About
-- MEARN stack development
-- JAMstack architecture
-- Secure coding with OWASP
-- Pixel art for web interfaces
-- Networking basics (OSI model)
-
-
-📫 How to reach me **fatima23456.12@gmail.com**
-
-<p>⚡ Fun fact **I don´t like social media**</p>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJhb2lvbTNva3AwaGIybzhrcDFpYXdnM2p3dnU3cG55OGt5MnB5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OwAi167njQxHwDhqFE/giphy.gif" alt="socialmedia" width="330" height="280"/>
-
+  
+  <table>
+  <tr>
+    <td valign="top" width="50%">
+      <h2>📚 Currently Reading</h2>
+      <ul>
+        <li><strong>1984</strong> by George Orwell</li>
+        <li><strong>The Cult of AI</strong></li>
+        <li><strong>TypeScript 5 Design Patterns and Best Practices</strong></li>
+        <li><strong>Cyber Biosecurity</strong> by Addie Lamar</li>
+      </ul>
+      <p>These books fuel my curiosity about systems, ethics, and the evolving relationship between humans and technology.</p>
+    </td>
+    <td valign="top" width="50%">
+      <h2>💬 Ask Me About</h2>
+      <ul>
+        <li>MEARN stack development</li>
+        <li>JAMstack architecture</li>
+        <li>Secure coding with OWASP</li>
+        <li>Pixel art for web interfaces</li>
+        <li>Networking basics (OSI model)</li>
+      </ul>
+      <h2>📫 How to Reach Me</h2>
+      <p><strong>Email:</strong> fatima23456.12@gmail.com</p>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">🧰 Languages and Tools</h2>
 <table align="center">
