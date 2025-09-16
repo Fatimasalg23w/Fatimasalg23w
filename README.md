@@ -180,26 +180,13 @@ This document outlines the technologies I use across **web development** and **d
 
 ## 🌐 Web Development
 
-🖍️ Static Frontend
-**Stack:**  
-`HTML5 + CSS3 + JavaScript`
+## 🚀 Mis Proyectos
 
-💡 Projects:**  
-Personal portfolio site  
-Landing page for a local business  
-Interactive resume with animations  
-
----
-
-⚡ Dynamic Frontend
-**Stack**  
-- `HTML5 + CSS3 + JavaScript + React`  
-- `HTML5 + CSS3 + JavaScript + TypeScript`
-
-**💡 Projects:**  
-- Task manager with drag-and-drop  
-- Weather dashboard using public APIs  
-- Interactive quiz app with score tracking  
+| 🖼️ **Front End** | ⚙️ **Front End Dinámico** |
+|:--|:--|
+| [![Landing Page](https://via.placeholder.com/120)](#)<br>**Personal portfolio site  **<br>HTML/CSS<br><br>Diseño responsivo con estructura modular y navegación clara. | [![To-Do App](https://via.placeholder.com/120)](#)<br>**Landing page for a local business**<br>JavaScript<br><br>Lista de tareas con almacenamiento local y filtros dinámicos. |
+| [![Portfolio](https://via.placeholder.com/120)](#)<br>**Interactive resume with animations**<br>Animaciones CSS<br><br>Presentación personal con transiciones suaves y secciones interactivas. | [![Weather App](https://via.placeholder.com/120)](#)<br>*Task manager with drag-and-drop**<br>API Fetch<br><br>Consulta del clima en tiempo real usando OpenWeatherMap. |
+| [![Blog Estático](https://via.placeholder.com/120)](#)<br>**Weather dashboard using public APIs**<br>Markdown<br><br>Blog técnico con estructura clara y navegación por etiquetas. | [![Dashboard](https://via.placeholder.com/120)](#)<br>**Interactive quiz app with score tracking**<br>Gráficas dinámicas<br><br>Visualización de datos con Chart.js y filtros interactivos. |
 
 ---
 
@@ -214,9 +201,11 @@ Interactive resume with animations
 | **C# .NET** | `HTML5 + CSS3 + JavaScript + ASP.NET Core` | Admin dashboard with role-based access |
 | **Java (Spring Boot)** | `HTML5 + CSS3 + JavaScript + Spring Boot` | Student registration system |
 
----
+## 🎠 Proyectos Destacados
 
-🖥️ Desktop Applications
+
+
+
 
 🧩 C# .NET Desktop App
 **Frontend:**  
@@ -228,10 +217,10 @@ Interactive resume with animations
 **Database:**  
 `SQL Server` *(MySQL also supported)*
 
-**💡 Project Ideas:**  
-- Inventory management system  
-- Desktop note-taking app with sync  
-- Local CRM tool for small businesses  
+**💡 Projects:**  
+Inventory management system  
+Desktop note-taking app with sync  
+Local CRM tool for small businesses  
 
 ---
 
@@ -245,7 +234,7 @@ Interactive resume with animations
 **Database:**  
 `PostgreSQL` *(MySQL also supported)*
 
-**💡 Project Ideas:**  
+**💡 Projects:**  
 Library catalog with search and filter  
 Expense tracker with charts  
 Desktop quiz builder for educators  
