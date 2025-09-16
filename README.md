@@ -39,101 +39,7 @@ I’ve also worked with technologies like Lovable, Bolt, and others, customizing
   </tr>
 </table>
 
-<h2 align="center">🧰 Languages and Tools</h2>
-<table align="center">
-  <tr>
-    <td align="center">
-      <h2>🖍️ Frontend</h2>
-      <p>
-        <a href="https://github.com/yourusername/typescript-project" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40px" title="TypeScript"/>
-        </a>
-        <a href="https://github.com/yourusername/html5-project" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40px" alt="HTML5"/>
-        </a>
-        <a href="https://github.com/yourusername/css3-styles" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40px" alt="CSS3"/>
-        </a>
-        <a href="https://github.com/yourusername/javascript-projects" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px" alt="JavaScript"/>
-        </a>
-        <a href="https://github.com/yourusername/react-apps" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" alt="React"/>
-        </a>
-      </p>
-    </td>
-    <td align="center">
-      <h2>🔧 Backend</h2>
-      <p>
-        <a href="https://github.com/yourusername/java-project" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" title="Java"/>
-        </a>
-        <a href="https://github.com/yourusername/nodejs-backend" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" title="Node.js"/>
-        </a>
-        <a href="https://github.com/yourusername/python-projects" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40px" title="Python"/>
-        </a>
-        <a href="https://github.com/yourusername/csharp-projects" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px" title="C#"/>
-        </a>
-        <a href="https://github.com/yourusername/dotnet-apps" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40px" title=".NET"/>
-        </a>
-        <a href="https://github.com/yourusername/php-projects" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px" title="PHP"/>
-</a>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <h2>📚 Database</h2>
-      <p>
-        <a href="https://github.com/yourusername/mysql-database" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="MySQL"/>
-        </a>
-        <a href="https://github.com/yourusername/mongodb-projects" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" title="MongoDB"/>
-        </a>
-      </p>
-    </td>
-    <td align="center">
-      <h2>☁️ Cloud</h2>
-      <p>
-        <a href="https://github.com/yourusername/aws-deployments" target="_blank">
-          <img src="https://skillicons.dev/icons?i=aws" width="40px" title="AWS"/>
-        </a>
-        <a href="https://github.com/yourusername/googlecloud-projects" target="_blank">
-          <img src="https://skillicons.dev/icons?i=gcp" width="40px" title="Google Cloud"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h2>🗂️ Version Control</h2>
-      <p>
-        <a href="https://github.com/yourusername/git-workflows" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" title="Git"/>
-        </a>
-        <a href="https://github.com/yourusername/github-repos" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" title="GitHub"/>
-        </a>
-      </p>
-    </td>
-    <td align="center">
-      <h2>🖥️ Operating System</h2>
-      <p>
-        <a href="https://github.com/yourusername/linux-scripts" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" title="Linux"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-  <h3 align="center"> 📝 My Latest Blog Post</h3>
+<h3 align="center"> 📝 My Latest Blog Post</h3>
 
 <table>
   <tr>
@@ -161,11 +67,62 @@ I’ve also worked with technologies like Lovable, Bolt, and others, customizing
     </td>
   </tr>
 </table>
+    <h1 align="center"> 💻 Technical Stack Overview</h1> 
+ <p>This document outlines the technologies I use across **web development** and **desktop applications**, with space to expand on project ideas and implementations for each stack.
+     </p>
+<table width="100%" align="center">
+  <tr>
+    <!-- Tarjeta 1: Frontend & Backend -->
+    <td valign="top" width="33%" style="min-height:300px;">
+      <h3 align="center">🖍️ Frontend & 🔧 Backend</h3>
+      <div align="center">
+        <p>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40px" title="HTML5"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40px" title="CSS3"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px" title="JavaScript"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" title="React"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40px" title="TypeScript"/>
+        </p>
+        <p>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" title="Java"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" title="Node.js"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40px" title="Python"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px" title="C#"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40px" title=".NET"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px" title="PHP"/>
+        </p>
+      </div>
+    </td>
+    <!-- Tarjeta 2: Database & Cloud -->
+    <td valign="top" width="33%" style="min-height:300px;">
+      <h3 align="center">📚 Database & ☁️ Cloud</h3>
+      <div align="center">
+        <p>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="MySQL"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" title="MongoDB"/>
+        </p>
+        <p>
+          <img src="https://skillicons.dev/icons?i=aws" width="40px" title="AWS"/>
+          <img src="https://skillicons.dev/icons?i=gcp" width="40px" title="Google Cloud"/>
+        </p>
+      </div>
+    </td>
+    <!-- Tarjeta 3: Version Control & OS -->
+    <td valign="top" width="33%" style="min-height:300px;">
+      <h3 align="center">🗂️ Version Control & 🖥️ OS</h3>
+      <div align="center">
+        <p>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" title="Git"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" title="GitHub"/>
+        </p>
+        <p>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30px" title="Linux"/>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
-
-# 💻 Technical Stack Overview
-
-This document outlines the technologies I use across **web development** and **desktop applications**, with space to expand on project ideas and implementations for each stack.
 
 ---
 
@@ -212,6 +169,24 @@ This document outlines the technologies I use across **web development** and **d
 Inventory management system  
 Desktop note-taking app with sync  
 Local CRM tool for small businesses  
+
+---
+
+☕ Java Desktop App
+**Frontend:**  
+`JavaFX + FXML + CSS`
+
+**Backend:**  
+`Spring Boot + Hibernate`
+
+**Database:**  
+`PostgreSQL` *(MySQL also supported)*
+
+**💡 Projects:**  
+Library catalog with search and filter  
+Expense tracker with charts  
+Desktop quiz builder for educators  
+
 
 ---
 
