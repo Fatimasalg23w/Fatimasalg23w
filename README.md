@@ -49,16 +49,16 @@ I’ve also worked with technologies like Lovable, Bolt, and others, customizing
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40px" title="TypeScript"/>
         </a>
         <a href="https://github.com/yourusername/html5-project" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40px" title="HTML5"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40px" alt="HTML5"/>
         </a>
         <a href="https://github.com/yourusername/css3-styles" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40px" title="CSS3"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40px" alt="CSS3"/>
         </a>
         <a href="https://github.com/yourusername/javascript-projects" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px" title="JavaScript"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px" alt="JavaScript"/>
         </a>
         <a href="https://github.com/yourusername/react-apps" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" title="React"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" alt="React"/>
         </a>
       </p>
     </td>
@@ -172,3 +172,86 @@ I’ve also worked with technologies like Lovable, Bolt, and others, customizing
   <img src="https://nirzak-streak-stats.vercel.app/?user=Fatimasalg23w&theme=dark&hide_border=false" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💻 Technical Stack Overview
+
+This document outlines the technologies I use across **web development** and **desktop applications**, with space to expand on project ideas and implementations for each stack.
+
+---
+
+## 🌐 Web Development
+
+🖍️ Static Frontend
+**Stack:**  
+`HTML5 + CSS3 + JavaScript`
+
+💡 Projects:**  
+Personal portfolio site  
+Landing page for a local business  
+Interactive resume with animations  
+
+---
+
+⚡ Dynamic Frontend
+**Stack**  
+- `HTML5 + CSS3 + JavaScript + React`  
+- `HTML5 + CSS3 + JavaScript + TypeScript`
+
+**💡 Projects:**  
+- Task manager with drag-and-drop  
+- Weather dashboard using public APIs  
+- Interactive quiz app with score tracking  
+
+---
+
+🔧 Full-Stack Web Integration
+
+| Stack | Technologies | 💡 Projects|
+|-------|--------------|------------------|
+| **Java** | `HTML5 + CSS3 + JavaScript + React + Java` | Blog platform with comment system |
+| **Node.js** | `HTML5 + CSS3 + JavaScript + TypeScript + Node.js` | Real-time chat app with WebSocket |
+| **Python** | `HTML5 + CSS3 + JavaScript + React + Python` | AI-powered image classifier frontend |
+| **PHP** | `HTML5 + CSS3 + JavaScript + TypeScript + PHP` | E-commerce site with cart and checkout |
+| **C# .NET** | `HTML5 + CSS3 + JavaScript + ASP.NET Core` | Admin dashboard with role-based access |
+| **Java (Spring Boot)** | `HTML5 + CSS3 + JavaScript + Spring Boot` | Student registration system |
+
+---
+
+🖥️ Desktop Applications
+
+🧩 C# .NET Desktop App
+**Frontend:**  
+`WPF + XAML`
+
+**Backend:**  
+`ASP.NET Core + Entity Framework`
+
+**Database:**  
+`SQL Server` *(MySQL also supported)*
+
+**💡 Project Ideas:**  
+- Inventory management system  
+- Desktop note-taking app with sync  
+- Local CRM tool for small businesses  
+
+---
+
+☕ Java Desktop App
+**Frontend:**  
+`JavaFX + FXML + CSS`
+
+**Backend:**  
+`Spring Boot + Hibernate`
+
+**Database:**  
+`PostgreSQL` *(MySQL also supported)*
+
+**💡 Project Ideas:**  
+Library catalog with search and filter  
+Expense tracker with charts  
+Desktop quiz builder for educators  
+
+---
+
+🚧 Work in Progress
+
+Feel free to explore each section as I continue building and refining my projects. Contributions, feedback, and collaboration are always welcome!
