@@ -74,6 +74,9 @@ These books fuel my curiosity about systems, ethics, and the evolving relationsh
         <a href="https://github.com/yourusername/dotnet-apps" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40px" title=".NET"/>
         </a>
+        <a href="https://github.com/yourusername/php-projects" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px" title="PHP"/>
+</a>
       </p>
     </td>
   </tr>
