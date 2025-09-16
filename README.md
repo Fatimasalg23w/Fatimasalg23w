@@ -184,9 +184,9 @@ This document outlines the technologies I use across **web development** and **d
 
 | 🖼️ **Front End** | ⚙️ **Front End Dinámico** |
 |:--|:--|
-| [![Landing Page](https://via.placeholder.com/120)](#)<br>**Personal portfolio site  **<br>HTML/CSS<br><br>Diseño responsivo con estructura modular y navegación clara. | [![To-Do App](https://via.placeholder.com/120)](#)<br>**Landing page for a local business**<br>JavaScript<br><br>Lista de tareas con almacenamiento local y filtros dinámicos. |
-| [![Portfolio](https://via.placeholder.com/120)](#)<br>**Interactive resume with animations**<br>Animaciones CSS<br><br>Presentación personal con transiciones suaves y secciones interactivas. | [![Weather App](https://via.placeholder.com/120)](#)<br>*Task manager with drag-and-drop**<br>API Fetch<br><br>Consulta del clima en tiempo real usando OpenWeatherMap. |
-| [![Blog Estático](https://via.placeholder.com/120)](#)<br>**Weather dashboard using public APIs**<br>Markdown<br><br>Blog técnico con estructura clara y navegación por etiquetas. | [![Dashboard](https://via.placeholder.com/120)](#)<br>**Interactive quiz app with score tracking**<br>Gráficas dinámicas<br><br>Visualización de datos con Chart.js y filtros interactivos. |
+| [![Personal portfolio site](https://via.placeholder.com/120)](#)<br>**Personal portfolio site  **<br>HTML/CSS<br><br>Diseño responsivo con estructura modular y navegación clara. | [![Landing page for a local business](https://via.placeholder.com/120)](#)<br>**Landing page for a local business**<br>JavaScript<br><br>Lista de tareas con almacenamiento local y filtros dinámicos. |
+| [![Interactive resume with animations](https://via.placeholder.com/120)](#)<br>**Interactive resume with animations**<br>Animaciones CSS<br><br>Presentación personal con transiciones suaves y secciones interactivas. | [![Task manager with drag-and-drop](https://via.placeholder.com/120)](#)<br>*Task manager with drag-and-drop**<br>API Fetch<br><br>Consulta del clima en tiempo real usando OpenWeatherMap. |
+| [![Weather dashboard using public APIs](https://via.placeholder.com/120)](#)<br>**Weather dashboard using public APIs**<br>Markdown<br><br>Blog técnico con estructura clara y navegación por etiquetas. | [![Interactive quiz app with score tracking](https://via.placeholder.com/120)](#)<br>**Interactive quiz app with score tracking**<br>Gráficas dinámicas<br><br>Visualización de datos con Chart.js y filtros interactivos. |
 
 ---
 
