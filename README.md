@@ -163,15 +163,6 @@ I’ve also worked with technologies like Lovable, Bolt, and others, customizing
 </table>
 
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Fatimasalg23w&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Fatimasalg23w&theme=dark&hide_border=false" />
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 💻 Technical Stack Overview
 
 This document outlines the technologies I use across **web development** and **desktop applications**, with space to expand on project ideas and implementations for each stack.
