@@ -34,21 +34,11 @@ These books fuel my curiosity about systems, ethics, and the evolving relationsh
 
 ### 🧰 Languages and Tools
 
-<a href="https://github.com/yourusername/java-project" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
-  <span style="vertical-align:middle;">Java</span>
-</a>  
+<h3 align="left">🖍️Front-end</h3>
+
 <a href="https://github.com/yourusername/typescript-project" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
   <span style="vertical-align:middle;">TypeScript</span>
-</a>  
-<a href="https://github.com/yourusername/git-workflows" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
-  <span style="vertical-align:middle;">Git</span>
-</a>  
-<a href="https://github.com/yourusername/linux-scripts" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
-  <span style="vertical-align:middle;">Linux</span>
 </a>  
 <a href="https://github.com/yourusername/html5-project" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
@@ -66,6 +56,12 @@ These books fuel my curiosity about systems, ethics, and the evolving relationsh
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
   <span style="vertical-align:middle;">React</span>
 </a>  
+</br>
+<h3 align="left">🔧🪚Back-end</h3>
+<a href="https://github.com/yourusername/java-project" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
+  <span style="vertical-align:middle;">Java</span>
+</a>  
 <a href="https://github.com/yourusername/nodejs-backend" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
   <span style="vertical-align:middle;">Node.js</span>
@@ -74,10 +70,7 @@ These books fuel my curiosity about systems, ethics, and the evolving relationsh
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
   <span style="vertical-align:middle;">Python</span>
 </a>  
-<a href="https://github.com/yourusername/github-repos" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
-  <span style="vertical-align:middle;">GitHub</span>
-</a>  
+
 <a href="https://github.com/yourusername/csharp-projects" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
   <span style="vertical-align:middle;">C#</span>
@@ -86,6 +79,25 @@ These books fuel my curiosity about systems, ethics, and the evolving relationsh
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
   <span style="vertical-align:middle;">.NET</span>
 </a>  
+</br>
+<h3 align="left">🗂️ Version Control</h3>
+<a href="https://github.com/yourusername/git-workflows" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
+  <span style="vertical-align:middle;">Git</span>
+</a>  
+<a href="https://github.com/yourusername/github-repos" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
+  <span style="vertical-align:middle;">GitHub</span>
+</a>  
+
+ <h3 align="left">🖥️OS</h3>
+
+<a href="https://github.com/yourusername/linux-scripts" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
+  <span style="vertical-align:middle;">Linux</span>
+</a>  
+</br>
+<h3 align="left">📚Database</h3>
 <a href="https://github.com/yourusername/mysql-database" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
   <span style="vertical-align:middle;">MySQL</span>
@@ -94,6 +106,8 @@ These books fuel my curiosity about systems, ethics, and the evolving relationsh
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30px" style="vertical-align:middle; margin-right:8px;">
   <span style="vertical-align:middle;">MongoDB</span>
 </a>  
+</br>
+<h3 align="left">☁️Cloud</h3>
 <a href="https://github.com/yourusername/aws-deployments" target="_blank">
   <img src="https://skillicons.dev/icons?i=aws" width="30px" style="vertical-align:middle; margin-right:8px;">
   <span style="vertical-align:middle;">AWS</span>
@@ -102,8 +116,8 @@ These books fuel my curiosity about systems, ethics, and the evolving relationsh
   <img src="https://skillicons.dev/icons?i=gcp" width="30px" style="vertical-align:middle; margin-right:8px;">
   <span style="vertical-align:middle;">Google Cloud</span>
 </a>
-  
-## 📝 My Latest Blog Post
+  </br>
+  <h3 align="center"> 📝 My Latest Blog Post</h3>
 
 <table>
   <tr>
