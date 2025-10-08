@@ -126,9 +126,11 @@ I’ve also worked with technologies like Lovable, Bolt, and others, customizing
 <h1 align="center"> 🎠Mis proyectos</h1>
 <h2 align="left"> 🌐 Web Development</h2>
 
-| 🖼️ **Front End** | ⚙️ **Front End Dinámico** |
-|:--|:--|
-| [![Personal portfolio site](https://via.placeholder.com/120)](#)<br>**Personal portfolio site  **<br>HTML/CSS<br><br>Diseño responsivo con estructura modular y navegación clara. | [![Landing page for a local business](https://via.placeholder.com/120)](#)<br>**Landing page for a local business**<br>JavaScript<br><br>Lista de tareas con almacenamiento local y filtros dinámicos. |
+⚙️ **Front End Dinámico** 
+[![Personal portfolio site](https://github.com/Fatimasalg23w/Portfolio2025/blob/main/public/images/readme%20.png)](#)
+# 🐰 Portfolio2025 —  [Ver en GitHub](https://github.com/Fatimasalg23w/Portfolio2025) |  3D Interactive Portfolio built with React, Three.js and Tailwind CSS  
+
+**<br>HTML/CSS<br><br>Diseño responsivo con estructura modular y navegación clara. | [![Landing page for a local business](https://via.placeholder.com/120)](#)<br>**Landing page for a local business**<br>JavaScript<br><br>Lista de tareas con almacenamiento local y filtros dinámicos. |
 | [![Interactive resume with animations](https://via.placeholder.com/120)](#)<br>**Interactive resume with animations**<br>Animaciones CSS<br><br>Presentación personal con transiciones suaves y secciones interactivas. | [![Task manager with drag-and-drop](https://via.placeholder.com/120)](#)<br>*Task manager with drag-and-drop**<br>API Fetch<br><br>Consulta del clima en tiempo real usando OpenWeatherMap. |
 | [![Weather dashboard using public APIs](https://via.placeholder.com/120)](#)<br>**Weather dashboard using public APIs**<br>Markdown<br><br>Blog técnico con estructura clara y navegación por etiquetas. | [![Interactive quiz app with score tracking](https://via.placeholder.com/120)](#)<br>**Interactive quiz app with score tracking**<br>Gráficas dinámicas<br><br>Visualización de datos con Chart.js y filtros interactivos. |
 
