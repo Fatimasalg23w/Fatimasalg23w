@@ -124,13 +124,16 @@ I’ve also worked with technologies like Lovable, Bolt, and others, customizing
 </table>
 
 <h1 align="center"> 🎠Mis proyectos</h1>
-<h2 align="left"> 🌐 Web Development</h2>
+<h1 align="left"> 🌐 Web Development</h2>
 
-⚙️ **Front End Dinámico** 
+# ⚙️ **Front End Dinámico** 🐰 Portfolio2025 —  [GitHub Repository](https://github.com/Fatimasalg23w/Portfolio2025) |  3D Interactive Portfolio built with React, Three.js and Tailwind CSS  
 [![Personal portfolio site](https://github.com/Fatimasalg23w/Portfolio2025/blob/main/public/images/readme%20.png)](#)
-# 🐰 Portfolio2025 —  [Ver en GitHub](https://github.com/Fatimasalg23w/Portfolio2025) |  3D Interactive Portfolio built with React, Three.js and Tailwind CSS  
 
-**<br>HTML/CSS<br><br>Diseño responsivo con estructura modular y navegación clara. | [![Landing page for a local business](https://via.placeholder.com/120)](#)<br>**Landing page for a local business**<br>JavaScript<br><br>Lista de tareas con almacenamiento local y filtros dinámicos. |
+
+# 🍓 Strawberry Videogame —  [Github Repository](https://github.com/Fatimasalg23w/Portfolio2025) |  Strawberry videogame using React+Python ⚙️ **Fullstack** <p align="center">
+  <img src="https://copilot.microsoft.com/th/id/BCO.6213da4c-7abd-4fed-afba-3de4628588e9.png" alt="GitHub Banner de Fresa Pixelada" />
+
+</p>)](#)<br>**Landing page for a local business**<br>JavaScript<br><br>Lista de tareas con almacenamiento local y filtros dinámicos. |
 | [![Interactive resume with animations](https://via.placeholder.com/120)](#)<br>**Interactive resume with animations**<br>Animaciones CSS<br><br>Presentación personal con transiciones suaves y secciones interactivas. | [![Task manager with drag-and-drop](https://via.placeholder.com/120)](#)<br>*Task manager with drag-and-drop**<br>API Fetch<br><br>Consulta del clima en tiempo real usando OpenWeatherMap. |
 | [![Weather dashboard using public APIs](https://via.placeholder.com/120)](#)<br>**Weather dashboard using public APIs**<br>Markdown<br><br>Blog técnico con estructura clara y navegación por etiquetas. | [![Interactive quiz app with score tracking](https://via.placeholder.com/120)](#)<br>**Interactive quiz app with score tracking**<br>Gráficas dinámicas<br><br>Visualización de datos con Chart.js y filtros interactivos. |
 
