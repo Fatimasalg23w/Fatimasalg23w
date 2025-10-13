@@ -130,7 +130,7 @@ I’ve also worked with technologies like Lovable, Bolt, and others, customizing
 [![Personal portfolio site](https://github.com/Fatimasalg23w/Portfolio2025/blob/main/public/images/readme%20.png)](#)
 
 
-# 🍓 Strawberry Videogame —  [https://github.com/Fatimasalg23w/strawberry-videogame) |  Strawberry videogame using React+Python ⚙️ **Fullstack** <p align="center">
+# 🍓 Strawberry Videogame —  [Github Repository](https://github.com/Fatimasalg23w/strawberry-videogame) |  Strawberry videogame using React+Python ⚙️ **Fullstack** <p align="center">
   <img src="https://copilot.microsoft.com/th/id/BCO.6213da4c-7abd-4fed-afba-3de4628588e9.png" alt="GitHub Banner de Fresa Pixelada" />
 
 </p>)](#)<br>**Landing page for a local business**<br>JavaScript<br><br>Lista de tareas con almacenamiento local y filtros dinámicos. |
