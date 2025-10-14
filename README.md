@@ -133,6 +133,9 @@ I’ve also worked with technologies like Lovable, Bolt, and others, customizing
 # 🍓 Strawberry Videogame —  [Github Repository](https://github.com/Fatimasalg23w/strawberry-videogame) |  Strawberry videogame using React+Python ⚙️ **Fullstack** <p align="center">
   <img src="https://copilot.microsoft.com/th/id/BCO.6213da4c-7abd-4fed-afba-3de4628588e9.png" alt="GitHub Banner de Fresa Pixelada" />
 
+  #  🛩️Travel Agency —  [Github Repository](https://github.com/Fatimasalg23w/strawberry-videogame) | Online travel agency, connected to Sabre Api + typescript+sql| ⚙️ **Fullstack** <p align="center">
+  <img src="https://copilot.microsoft.com/th/id/BCO.6213da4c-7abd-4fed-afba-3de4628588e9.png" alt="GitHub Banner de Fresa Pixelada" />
+
 </p>)](#)<br>**Landing page for a local business**<br>JavaScript<br><br>Lista de tareas con almacenamiento local y filtros dinámicos. |
 | [![Interactive resume with animations](https://via.placeholder.com/120)](#)<br>**Interactive resume with animations**<br>Animaciones CSS<br><br>Presentación personal con transiciones suaves y secciones interactivas. | [![Task manager with drag-and-drop](https://via.placeholder.com/120)](#)<br>*Task manager with drag-and-drop**<br>API Fetch<br><br>Consulta del clima en tiempo real usando OpenWeatherMap. |
 | [![Weather dashboard using public APIs](https://via.placeholder.com/120)](#)<br>**Weather dashboard using public APIs**<br>Markdown<br><br>Blog técnico con estructura clara y navegación por etiquetas. | [![Interactive quiz app with score tracking](https://via.placeholder.com/120)](#)<br>**Interactive quiz app with score tracking**<br>Gráficas dinámicas<br><br>Visualización de datos con Chart.js y filtros interactivos. |
