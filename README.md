@@ -134,7 +134,8 @@ I’ve also worked with technologies like Lovable, Bolt, and others, customizing
   <img src="https://copilot.microsoft.com/th/id/BCO.6213da4c-7abd-4fed-afba-3de4628588e9.png" alt="GitHub Banner de Fresa Pixelada" />
 
   #  🛩️Travel Agency —  [Github Repository](https://github.com/Fatimasalg23w/strawberry-videogame) | Online travel agency, connected to Sabre Api + typescript+sql| ⚙️ **Fullstack** <p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.6213da4c-7abd-4fed-afba-3de4628588e9.png" alt="GitHub Banner de Fresa Pixelada" />
+
+[![Booking Platform using Ts+sql+python+sabre api]([https://github.com/Fatimasalg23w/Portfolio2025/blob/main/public/images/readme%20.png](https://github.com/Fatimasalg23w/voyagevista-engine/blob/main/TravelAgency.png))](#)
 
 </p>)](#)<br>**Landing page for a local business**<br>JavaScript<br><br>Lista de tareas con almacenamiento local y filtros dinámicos. |
 | [![Interactive resume with animations](https://via.placeholder.com/120)](#)<br>**Interactive resume with animations**<br>Animaciones CSS<br><br>Presentación personal con transiciones suaves y secciones interactivas. | [![Task manager with drag-and-drop](https://via.placeholder.com/120)](#)<br>*Task manager with drag-and-drop**<br>API Fetch<br><br>Consulta del clima en tiempo real usando OpenWeatherMap. |
