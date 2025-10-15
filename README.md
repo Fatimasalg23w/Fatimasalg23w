@@ -133,7 +133,7 @@ I’ve also worked with technologies like Lovable, Bolt, and others, customizing
 # 🍓 Strawberry Videogame —  [Github Repository](https://github.com/Fatimasalg23w/strawberry-videogame) |  Strawberry videogame using React+Python ⚙️ **Fullstack** <p align="center">
   <img src="https://copilot.microsoft.com/th/id/BCO.6213da4c-7abd-4fed-afba-3de4628588e9.png" alt="GitHub Banner de Fresa Pixelada" />
 
-  # ⚙️ **Travel Agency —  [GitHub Repository](https://github.com/Fatimasalg23w/voyagevista-engine/blob/main/TravelAgency.png) |   |
+  # ⚙️ **Travel Agency —  [GitHub Repository](https://github.com/Fatimasalg23w/voyagevista-engine) |   |
   [![Online travel agency, connected to Sabre Api + typescript+sql](https://github.com/Fatimasalg23w/voyagevista-engine/blob/main/TravelAgency.png)](#)
 
 
