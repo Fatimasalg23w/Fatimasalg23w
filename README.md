@@ -129,9 +129,13 @@ I’ve also worked with technologies like Lovable, Bolt, and others, customizing
 # ⚙️ **Front End Dinámico** 🐰 Portfolio2025 —  [GitHub Repository](https://github.com/Fatimasalg23w/Portfolio2025) |  3D Interactive Portfolio built with React, Three.js and Tailwind CSS  
 [![Personal portfolio site](https://github.com/Fatimasalg23w/Portfolio2025/blob/main/public/images/readme%20.png)](#)
 
+# 🍓 Strawberry Videogame —  [Github Repository](https://github.com/Fatimasalg23w/strawberry-videogame) |  Strawberry videogame using React+Python ⚙️ **Fullstack**
 
-# 🍓 Strawberry Videogame —  [Github Repository](https://github.com/Fatimasalg23w/strawberry-videogame) |  Strawberry videogame using React+Python ⚙️ **Fullstack** <p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.6213da4c-7abd-4fed-afba-3de4628588e9.png" alt="GitHub Banner de Fresa Pixelada" />
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=JU2lslNueII" target="_blank">
+    <img src="https://img.youtube.com/vi/JU2lslNueII/0.jpg" alt="Strawberry Videogame Demo" width="600"/>
+  </a>
+</p>
 
   # ⚙️ **Travel Agency —  [GitHub Repository](https://github.com/Fatimasalg23w/voyagevista-engine) |   |
   [![Online travel agency, connected to Sabre Api + typescript+sql](https://github.com/Fatimasalg23w/voyagevista-engine/blob/main/TravelAgency.png)](#)
