@@ -143,7 +143,15 @@ I’ve also worked with technologies like Lovable, Bolt, and others, customizing
   </a>
 </p>
 
-  # ⚙️ **Travel Agency —  [GitHub Repository](https://github.com/Fatimasalg23w/voyagevista-engine) |   |
-  [![Online travel agency, connected to Sabre Api + typescript+sql](https://github.com/Fatimasalg23w/voyagevista-engine/blob/main/TravelAgency.png)](#)
+# ⚙️ **Travel Agency —  [GitHub Repository](https://github.com/Fatimasalg23w/voyagevista-engine) |  
+
+[![playwright+selenium workers to collect availability in booking sites, tour webpage+ mongo db for saving users and tours](https://github.com/Fatimasalg23w/voyagevista-engine/blob/main/TravelAgency.png)](#)
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=VDoguCkJOhQ" target="_blank">
+    <img src="https://img.youtube.com/vi/VDoguCkJOhQ/0.jpg" alt="Travel Agency Demo" width="600"/>
+  </a>
+</p>
+
 
 
