@@ -123,7 +123,7 @@ I’ve also worked with technologies like Lovable, Bolt, and others, customizing
   </tr>
 </table>
 
-<h1 align="center"> 🎠Recent Projects</h1>
+<h1 align="center"> 🎠Fun projects</h1>
 <h1 align="left"> 🌐 Web Development</h2>
 
 # ⚙️ **Front End Dinámico** 🐰 Portfolio2025 —  [GitHub Repository](https://github.com/Fatimasalg23w/Portfolio2025) |  3D Interactive Portfolio built with React, Three.js and Tailwind CSS  
