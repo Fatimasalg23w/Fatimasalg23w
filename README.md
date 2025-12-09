@@ -143,9 +143,7 @@ I’ve also worked with technologies like Lovable, Bolt, and others, customizing
   </a>
 </p>
 
-# ⚙️ **Travel Agency —  [GitHub Repository](https://github.com/Fatimasalg23w/voyagevista-engine) |  
-
-[![playwright+selenium workers to collect availability in booking sites, tour webpage+ mongo db for saving users and tours](https://github.com/Fatimasalg23w/voyagevista-engine/blob/main/TravelAgency.png)](#)
+# ⚙️ **Travel Agency —  [![playwright+selenium workers to collect availability in booking sites, tour webpage+ mongo db for saving users and tours] |  
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=VDoguCkJOhQ" target="_blank">
