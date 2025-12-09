@@ -127,7 +127,11 @@ I’ve also worked with technologies like Lovable, Bolt, and others, customizing
 <h1 align="left"> 🌐 Web Development</h2>
 
 # ⚙️ **Front End Dinámico** 🐰 Portfolio2025 —  [GitHub Repository](https://github.com/Fatimasalg23w/Portfolio2025) |  3D Interactive Portfolio built with React, Three.js and Tailwind CSS  
-[![Personal portfolio site](https://github.com/Fatimasalg23w/Portfolio2025/blob/main/public/images/readme%20.png)](#)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=JU2lslNueII](https://www.youtube.com/watch?v=gcjDNL704fQ" target="_blank">
+    <img src="https://img.youtube.com/vi/JU2lslNueII/0.jpg" alt="Strawberry Videogame Demo" width="600"/>
+  </a>
+</p>
 
 # 🍓 Strawberry Videogame —  [Github Repository](https://github.com/Fatimasalg23w/strawberry-videogame) |  Strawberry videogame using React+Python ⚙️ **Fullstack**
 
