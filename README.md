@@ -128,7 +128,7 @@ I’ve also worked with technologies like Lovable, Bolt, and others, customizing
 
 # ⚙️ **Front End Dinámico** 🐰 Portfolio2025 —  [GitHub Repository](https://github.com/Fatimasalg23w/Portfolio2025) |  3D Interactive Portfolio built with React, Three.js and Tailwind CSS  
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=JU2lslNueII](https://www.youtube.com/watch?v=gcjDNL704fQ" target="_blank">
+  <a href="https://www.youtube.com/watch?v=gcjDNL704fQ" target="_blank">
     <img src="https://img.youtube.com/vi/JU2lslNueII/0.jpg" alt="Strawberry Videogame Demo" width="600"/>
   </a>
 </p>
