@@ -128,6 +128,7 @@ I’ve also worked with technologies like Lovable, Bolt, and others, customizing
 
 # ⚙️ **Front End Dinámico** 🐰 Portfolio2025 —  [GitHub Repository](https://github.com/Fatimasalg23w/Portfolio2025) |  3D Interactive Portfolio built with React, Three.js and Tailwind CSS  
 
+## Watch the demo
 <p align="center">
   <a href="https://www.youtube.com/watch?v=gcjDNL704fQ" target="_blank">
     <img src="https://img.youtube.com/vi/gcjDNL704fQ/0.jpg" alt="Portfolio2025 Demo" width="600"/>
@@ -137,19 +138,21 @@ I’ve also worked with technologies like Lovable, Bolt, and others, customizing
 
 # 🍓 Strawberry Videogame —  [Github Repository](https://github.com/Fatimasalg23w/strawberry-videogame) |  Strawberry videogame using React+Python ⚙️ **Fullstack**
 
+## Watch the demo
 <p align="center">
   <a href="https://www.youtube.com/watch?v=JU2lslNueII" target="_blank">
     <img src="https://img.youtube.com/vi/JU2lslNueII/0.jpg" alt="Strawberry Videogame Demo" width="600"/>
   </a>
 </p>
 
-# ⚙️ **Travel Agency —  [![playwright+selenium workers to collect availability in booking sites, tour webpage+ mongo db for saving users and tours] |  
 
+# ⚙️ **Travel Agency —  [GitHub Repository](https://github.com/Fatimasalg23w/agenciadeviajes) | playwright+selenium workers to collect availability in booking sites, tour webpage+ mongo db for saving users and tours  
+
+## Watch the demo
 <p align="center">
   <a href="https://www.youtube.com/watch?v=VDoguCkJOhQ" target="_blank">
     <img src="https://img.youtube.com/vi/VDoguCkJOhQ/0.jpg" alt="Travel Agency Demo" width="600"/>
   </a>
 </p>
-
 
 
