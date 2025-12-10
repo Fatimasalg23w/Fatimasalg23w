@@ -141,7 +141,7 @@ I’ve also worked with technologies like Lovable, Bolt, and others, customizing
 </p>
 
 
-# ⚙️ **Travel Agency —  [GitHub Repository](https://github.com/Fatimasalg23w/agenciadeviajes) | playwright+selenium workers to scrap data/availability in booking sites, tour webpage+ mongo db for saving users and tours  
+# ⚙️ **Travel Agency —  [GitHub Repository](https://github.com/Fatimasalg23w/agenciadeviajes) | React+Next.js + Python(Playwright+Selenium workers to scrap data/availability in booking sites), Tour webpage+ Mongo db for saving users and tours  
 
 ## Watch the demo
 <p align="center">
