@@ -121,13 +121,12 @@ I’ve also worked with technologies like Lovable, Bolt, and others, customizing
 
 <h1 align="center"> 🎠Fun projects</h1>
 <h1 align="left"> 🌐 Web Development</h2>
-
 # ⚙️ **Front End ** 🐰 Portfolio2025 —  [GitHub Repository](https://github.com/Fatimasalg23w/Portfolio2025) |  3D Interactive Portfolio built with React, Three.js and Tailwind CSS  
 
 ## Watch the demo
 <p align="center">
   <a href="https://www.youtube.com/watch?v=gcjDNL704fQ" target="_blank">
-    <img src="https://img.youtube.com/vi/gcjDNL704fQ/0.jpg" alt="Portfolio2025 Demo" width="600"/>
+    <img src="https://img.youtube.com/vi/gcjDNL704fQ/hqdefault.jpg" alt="Portfolio2025 Demo ▶️" width="600"/>
   </a>
 </p>
 
@@ -137,7 +136,7 @@ I’ve also worked with technologies like Lovable, Bolt, and others, customizing
 ## Watch the demo
 <p align="center">
   <a href="https://www.youtube.com/watch?v=JU2lslNueII" target="_blank">
-    <img src="https://img.youtube.com/vi/JU2lslNueII/0.jpg" alt="Strawberry Videogame Demo" width="600"/>
+    <img src="https://img.youtube.com/vi/JU2lslNueII/hqdefault.jpg" alt="Strawberry Videogame Demo ▶️" width="600"/>
   </a>
 </p>
 
@@ -147,8 +146,6 @@ I’ve also worked with technologies like Lovable, Bolt, and others, customizing
 ## Watch the demo
 <p align="center">
   <a href="https://www.youtube.com/watch?v=C6bnbEYRhlA" target="_blank">
-    <img src="https://img.youtube.com/vi/C6bnbEYRhlA/0.jpg" alt="Travel Agency Demo" width="600"/>
+    <img src="https://img.youtube.com/vi/C6bnbEYRhlA/hqdefault.jpg" alt="Travel Agency Demo ▶️" width="600"/>
   </a>
 </p>
-
-
