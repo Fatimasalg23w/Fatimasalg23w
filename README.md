@@ -146,8 +146,8 @@ I’ve also worked with technologies like Lovable, Bolt, and others, customizing
 
 ## Watch the demo
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=VDoguCkJOhQ" target="_blank">
-    <img src="https://img.youtube.com/vi/VDoguCkJOhQ/0.jpg" alt="Travel Agency Demo" width="600"/>
+  <a href="https://www.youtube.com/watch?v=C6bnbEYRhlA" target="_blank">
+    <img src="https://img.youtube.com/vi/C6bnbEYRhlA/0.jpg" alt="Travel Agency Demo" width="600"/>
   </a>
 </p>
 
